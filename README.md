@@ -10,6 +10,21 @@
 🧠 Participante [Grupo de Pesquisa em Neurociência Computacional](https://www.instagram.com/neuro_comp/) afiliado ao Nutes-PB  
 📍 Localizado em: Campina Grande, PB  
 
+## 📬 Onde me encontrar
+<p align="left">
+  <a href="mailto:isabeloliveira425@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sharaisabell.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%2312100E.svg?&style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shara-isabell-303968256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## 🤖 Tecnologias que uso
 
 ### 🎨 Frontend
@@ -40,21 +55,6 @@
 ## 📈 Estatísticas
 ![Shara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharaIsabell&show_icons=true&theme=tokyonight&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharaIsabell&layout=compact&theme=tokyonight&locale=pt-br)
-
-## 📬 Onde me encontrar
-<p align="left">
-  <a href="mailto:isabeloliveira425@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://sharaisabell.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-%2312100E.svg?&style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shara-isabell-303968256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer" />
