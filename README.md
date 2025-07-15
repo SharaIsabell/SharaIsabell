@@ -7,7 +7,7 @@
 
 🎓 Graduando em Ciência da Computação pela UEPB  
 💡 Interessada nas áreas de Neurociência Computacional, Inteligência Artificial e Desenvolvimento Web  
-🧠 Participante [Grupo de Pesquisa em Neurociência Computacional](https://www.instagram.com/neuro_comp/) afiliado ao Nutes-PB  
+🧠 Participante do [Grupo de Pesquisa em Neurociência Computacional](https://www.instagram.com/neuro_comp/) afiliado ao Nutes-PB  
 📍 Localizado em: Campina Grande, PB  
 
 ## 📬 Onde me encontrar
